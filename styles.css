@@ -1,0 +1,22 @@
+body {
+}
+
+.hide {
+  border: solid 0.1em;
+  background-color: white;
+  border-color: black;
+  border-radius: 5px;
+  text-align: center;
+  position: absolute;
+  margin: 0 auto;
+}
+
+.square-txt {
+  top: 95%;
+  left: 74%;
+}
+
+.star-txt {
+  top: 153%;
+  left: 65%;
+}
